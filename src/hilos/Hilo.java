@@ -22,6 +22,7 @@ public class Hilo extends Thread {
     public void run() {
         for (int i = 0; i < numeroDeRepeticiones; i++) {
             System.out.println("Mensaje del hilo " + getName() + " en la intaracion " + i);
+            System.out.println("Mensaje del hilo " + getName() + " en la intaracion " + i);
         }
     }
 }
