@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author AlumnoM
+ * @author Pedro
  */
 public class Ejemplo3Tema2 {
 
