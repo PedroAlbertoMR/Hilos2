@@ -16,6 +16,8 @@ public class Hilo extends Thread {
     Hilo(int numeroDeRepeticiones, String nombre) {
         this.numeroDeRepeticiones = numeroDeRepeticiones;
         System.out.println("Creando");
+        System.out.println("Creando");
+        System.out.println("Creando");
         setName(nombre);
     }
 
